@@ -1,2 +1,2 @@
-# note-taking-application
+# Notes
 Add and view notes
